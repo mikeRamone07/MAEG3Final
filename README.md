@@ -3,3 +3,5 @@ Miguel Angel Escalera Garcia
 develop
 
 AP-3 Diseño de base de datos para usuarios. Resolviendo JIRA-102
+
+AP-2 Implementado formulario de registro. Resolviendo JIRA-101
